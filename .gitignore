@@ -1,0 +1,13 @@
+# build output
+dist/
+.output/
+
+# dependencies
+node_modules/
+.yarn/
+.vercel/
+.yarnrc.yml
+
+# environment variables
+.env
+.env.production
